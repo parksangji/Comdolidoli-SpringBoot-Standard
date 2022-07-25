@@ -1,5 +1,8 @@
 # Comdolidoli-SpringBoot-Standard
 
+#### my blog : https://comdolidol-i.tistory.com
+#### my email : sangji@kakao.com
+
 ### hello i`m comdolidol-i.<br>
 ### Welcome to my github.I wrote down the details on my blog. And I will leave each detail below as a link.<br>
 
