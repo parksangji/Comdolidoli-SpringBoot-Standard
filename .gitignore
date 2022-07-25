@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+/.mvn/wrapper/
+/dev_log/
+/dev_db.mv.db
+/dev_db.trace.db
+/mvnw
+/mvnw.cmd
