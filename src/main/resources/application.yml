@@ -1,3 +1,3 @@
 spring :
   profiles :
-    active : dev, db-maria
+c    active : dev, db-h2

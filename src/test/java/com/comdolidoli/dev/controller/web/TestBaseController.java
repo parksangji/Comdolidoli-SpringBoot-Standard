@@ -32,7 +32,6 @@ public class TestBaseController {
 
     @Autowired
     MockMvc mockMvc;
-
     @Test
     @Order(1)
     public void getIndex테스트() throws Exception {
